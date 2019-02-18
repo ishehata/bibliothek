@@ -1,0 +1,9 @@
+<div class="column">
+    <h4 >{{ data.title }}</h4>
+    <img [src]="data.cover" width="90" height="128" />
+    <button mat-button color="accent">Want to Read</button>
+    <mat-progress-bar style="width: 20%" mode="determinate" color="warn" [value]="progress"></mat-progress-bar>
+    <h5>Taha Hussien</h5>
+    <p>{{ data.pages }}</p>
+    <button mat-button color="accent">Edit</button>
+</div>

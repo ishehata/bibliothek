@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "name": "Taha Hussien"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Alayam",
+            "cover": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-T8Fuhq_CAow%2FWB-faIBV5yI%2FAAAAAAAAFdI%2FYtygOSdszxMWHHT03M241lEM7ZBxgUPnQCK4B%2Fs400%2Fstory-alayam-third-secondary-grade-Taha-Hussein.jpg&f=1",
+            "authorId": 1,
+            "pages": 300,
+            "pagesRead": 150,
+            "tags": [
+                "Arabic",
+                "Literature"
+            ]
+        }
+    ]
+}
